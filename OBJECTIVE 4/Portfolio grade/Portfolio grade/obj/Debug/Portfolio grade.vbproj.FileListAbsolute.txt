@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\bin\Debug\Portfolio grade.exe.config
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\bin\Debug\Portfolio grade.exe
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\bin\Debug\Portfolio grade.pdb
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\bin\Debug\Portfolio grade.xml
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio grade.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio_grade.Resources.resources
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio grade.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio grade.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio grade.exe
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio grade.xml
+M:\VB CODE\OBJECTIVE 4\Portfolio grade\Portfolio grade\obj\Debug\Portfolio grade.pdb
