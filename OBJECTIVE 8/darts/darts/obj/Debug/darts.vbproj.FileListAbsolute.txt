@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 8\darts\darts\bin\Debug\darts.exe.config
+M:\VB CODE\OBJECTIVE 8\darts\darts\bin\Debug\darts.exe
+M:\VB CODE\OBJECTIVE 8\darts\darts\bin\Debug\darts.pdb
+M:\VB CODE\OBJECTIVE 8\darts\darts\bin\Debug\darts.xml
+M:\VB CODE\OBJECTIVE 8\darts\darts\obj\Debug\darts.Resources.resources
+M:\VB CODE\OBJECTIVE 8\darts\darts\obj\Debug\darts.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 8\darts\darts\obj\Debug\darts.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 8\darts\darts\obj\Debug\darts.exe
+M:\VB CODE\OBJECTIVE 8\darts\darts\obj\Debug\darts.xml
+M:\VB CODE\OBJECTIVE 8\darts\darts\obj\Debug\darts.pdb

@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 8\vat\vat\bin\Debug\vat.exe.config
+M:\VB CODE\OBJECTIVE 8\vat\vat\bin\Debug\vat.exe
+M:\VB CODE\OBJECTIVE 8\vat\vat\bin\Debug\vat.pdb
+M:\VB CODE\OBJECTIVE 8\vat\vat\bin\Debug\vat.xml
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.Resources.resources
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.exe
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.xml
+M:\VB CODE\OBJECTIVE 8\vat\vat\obj\Debug\vat.pdb
