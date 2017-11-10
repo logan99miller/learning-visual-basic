@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\obj\Debug\name_seperator.Resources.resources
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\obj\Debug\name seperator.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\obj\Debug\name seperator.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\bin\Debug\name seperator.exe.config
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\bin\Debug\name seperator.exe
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\bin\Debug\name seperator.pdb
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\bin\Debug\name seperator.xml
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\obj\Debug\name seperator.exe
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\obj\Debug\name seperator.xml
+M:\VB CODE\OBJECTIVE 3\name seperator\name seperator\obj\Debug\name seperator.pdb

@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 2\circle\circle\obj\Debug\circle.Resources.resources
+M:\VB CODE\OBJECTIVE 2\circle\circle\obj\Debug\circle.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 2\circle\circle\obj\Debug\circle.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 2\circle\circle\bin\Debug\circle.exe.config
+M:\VB CODE\OBJECTIVE 2\circle\circle\bin\Debug\circle.exe
+M:\VB CODE\OBJECTIVE 2\circle\circle\bin\Debug\circle.pdb
+M:\VB CODE\OBJECTIVE 2\circle\circle\bin\Debug\circle.xml
+M:\VB CODE\OBJECTIVE 2\circle\circle\obj\Debug\circle.exe
+M:\VB CODE\OBJECTIVE 2\circle\circle\obj\Debug\circle.xml
+M:\VB CODE\OBJECTIVE 2\circle\circle\obj\Debug\circle.pdb
