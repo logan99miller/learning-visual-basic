@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\bin\Debug\rgb problem.exe.config
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\bin\Debug\rgb problem.exe
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\bin\Debug\rgb problem.pdb
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\bin\Debug\rgb problem.xml
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb problem.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb_problem.Resources.resources
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb problem.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb problem.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb problem.exe
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb problem.xml
+M:\VB CODE\OBJECTIVE 10\RGB FOLDER\rgb problem\rgb problem\obj\Debug\rgb problem.pdb
