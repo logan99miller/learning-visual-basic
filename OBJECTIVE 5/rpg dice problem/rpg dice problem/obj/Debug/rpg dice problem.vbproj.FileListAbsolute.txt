@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\bin\Debug\rpg dice problem.exe.config
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\bin\Debug\rpg dice problem.exe
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\bin\Debug\rpg dice problem.pdb
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\bin\Debug\rpg dice problem.xml
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\obj\Debug\rpg_dice_problem.Resources.resources
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\obj\Debug\rpg dice problem.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\obj\Debug\rpg dice problem.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\obj\Debug\rpg dice problem.exe
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\obj\Debug\rpg dice problem.xml
+M:\VB CODE\OBJECTIVE 5\rpg dice problem\rpg dice problem\obj\Debug\rpg dice problem.pdb

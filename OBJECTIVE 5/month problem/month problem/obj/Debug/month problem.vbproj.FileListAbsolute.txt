@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\bin\Debug\month problem.exe.config
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\bin\Debug\month problem.exe
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\bin\Debug\month problem.pdb
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\bin\Debug\month problem.xml
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month problem.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month_problem.Resources.resources
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month problem.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month problem.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month problem.exe
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month problem.xml
+M:\VB CODE\OBJECTIVE 5\month problem\month problem\obj\Debug\month problem.pdb
