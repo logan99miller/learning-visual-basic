@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\bin\Debug\maths test.exe.config
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\bin\Debug\maths test.exe
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\bin\Debug\maths test.pdb
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\bin\Debug\maths test.xml
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\obj\Debug\maths_test.Resources.resources
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\obj\Debug\maths test.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\obj\Debug\maths test.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\obj\Debug\maths test.exe
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\obj\Debug\maths test.xml
+M:\VB CODE\OBJECTIVE 6\maths test\maths test\obj\Debug\maths test.pdb
