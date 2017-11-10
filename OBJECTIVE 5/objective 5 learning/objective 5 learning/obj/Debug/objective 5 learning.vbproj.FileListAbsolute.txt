@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\bin\Debug\objective 5 learning.exe.config
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\bin\Debug\objective 5 learning.exe
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\bin\Debug\objective 5 learning.pdb
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\bin\Debug\objective 5 learning.xml
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\obj\Debug\objective_5_learning.Resources.resources
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\obj\Debug\objective 5 learning.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\obj\Debug\objective 5 learning.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\obj\Debug\objective 5 learning.exe
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\obj\Debug\objective 5 learning.xml
+M:\VB CODE\OBJECTIVE 5\objective 5 learning\objective 5 learning\obj\Debug\objective 5 learning.pdb
