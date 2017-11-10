@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\bin\Debug\tanks.exe.config
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\bin\Debug\tanks.exe
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\bin\Debug\tanks.pdb
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\bin\Debug\tanks.xml
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.Resources.resources
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.exe
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.xml
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.pdb
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 9\tanks\tanks\obj\Debug\tanks.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook problem.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook_problem.Resources.resources
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook problem.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook problem.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\bin\Debug\notebook problem.exe.config
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\bin\Debug\notebook problem.exe
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\bin\Debug\notebook problem.pdb
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\bin\Debug\notebook problem.xml
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook problem.exe
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook problem.xml
+M:\VB CODE\OBJECTIVE 9\notebook problem\notebook problem\obj\Debug\notebook problem.pdb
