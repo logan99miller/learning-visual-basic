@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\bin\Debug\guess the number.exe.config
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\bin\Debug\guess the number.exe
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\bin\Debug\guess the number.pdb
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\bin\Debug\guess the number.xml
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess the number.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess_the_number.Resources.resources
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess the number.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess the number.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess the number.exe
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess the number.xml
+M:\VB CODE\OBJECTIVE 7\guess the number\guess the number\obj\Debug\guess the number.pdb

@@ -1,0 +1,11 @@
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\bin\Debug\gamer tag.exe.config
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\bin\Debug\gamer tag.exe
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\bin\Debug\gamer tag.pdb
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\bin\Debug\gamer tag.xml
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer tag.vbprojResolveAssemblyReference.cache
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer_tag.Resources.resources
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer tag.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer tag.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer tag.exe
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer tag.xml
+M:\VB CODE\OBJECTIVE 7\gamer tag\gamer tag\obj\Debug\gamer tag.pdb

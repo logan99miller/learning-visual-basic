@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 7\xp\xp\bin\Debug\xp.exe.config
+M:\VB CODE\OBJECTIVE 7\xp\xp\bin\Debug\xp.exe
+M:\VB CODE\OBJECTIVE 7\xp\xp\bin\Debug\xp.pdb
+M:\VB CODE\OBJECTIVE 7\xp\xp\bin\Debug\xp.xml
+M:\VB CODE\OBJECTIVE 7\xp\xp\obj\Debug\xp.Resources.resources
+M:\VB CODE\OBJECTIVE 7\xp\xp\obj\Debug\xp.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 7\xp\xp\obj\Debug\xp.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 7\xp\xp\obj\Debug\xp.exe
+M:\VB CODE\OBJECTIVE 7\xp\xp\obj\Debug\xp.xml
+M:\VB CODE\OBJECTIVE 7\xp\xp\obj\Debug\xp.pdb
