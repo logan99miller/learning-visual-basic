@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\bin\Debug\word extractor.exe.config
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\bin\Debug\word extractor.exe
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\bin\Debug\word extractor.pdb
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\bin\Debug\word extractor.xml
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\obj\Debug\word_extractor.Resources.resources
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\obj\Debug\word extractor.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\obj\Debug\word extractor.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\obj\Debug\word extractor.exe
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\obj\Debug\word extractor.xml
+M:\VB CODE\OBJECTIVE 11\word extractor\word extractor\obj\Debug\word extractor.pdb
