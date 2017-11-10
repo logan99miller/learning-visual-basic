@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\bin\Debug\cash machine.exe.config
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\bin\Debug\cash machine.exe
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\bin\Debug\cash machine.pdb
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\bin\Debug\cash machine.xml
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\obj\Debug\cash_machine.Resources.resources
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\obj\Debug\cash machine.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\obj\Debug\cash machine.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\obj\Debug\cash machine.exe
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\obj\Debug\cash machine.xml
+M:\VB CODE\OBJECTIVE 5\cash machine\cash machine\obj\Debug\cash machine.pdb

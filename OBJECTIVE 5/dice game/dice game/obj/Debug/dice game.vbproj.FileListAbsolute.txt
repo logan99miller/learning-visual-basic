@@ -1,0 +1,10 @@
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\bin\Debug\dice game.exe.config
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\bin\Debug\dice game.exe
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\bin\Debug\dice game.pdb
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\bin\Debug\dice game.xml
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\obj\Debug\dice_game.Resources.resources
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\obj\Debug\dice game.vbproj.GenerateResource.Cache
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\obj\Debug\dice game.vbproj.CoreCompileInputs.cache
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\obj\Debug\dice game.exe
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\obj\Debug\dice game.xml
+M:\VB CODE\OBJECTIVE 5\dice game\dice game\obj\Debug\dice game.pdb
